@@ -3,6 +3,10 @@
 
 [![N|Imgur](https://i.imgur.com/oX6OzXA.gif)](https://i.imgur.com/oX6OzXA.gif)
 
+## Warning
+
+Please note this repository is just an implimentaion of   https://github.com/zhdonghd/miniView. You may find malpractices of code since its a very quick work i have done for a friend. i'll try to update the code to neat format when i get time. For the moment, this repo is intented for the people who just want to see https://github.com/zhdonghd/miniView in angular.
+
 ## Clone Repository
 
 Run `git clone https://github.com/rameezrami/angular-miniature-viewer` and swith to the root directory eg:`cd angular-miniature-viewer` 
