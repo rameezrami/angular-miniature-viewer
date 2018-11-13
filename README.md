@@ -1,8 +1,14 @@
-# AngularMiniViewer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
+# Angular Mini Viewer
+
+[![N|Imgur](https://i.imgur.com/oX6OzXA.gif)](https://i.imgur.com/oX6OzXA.gif)
+
+## Clone Repository
+
+Run `git clone https://github.com/rameezrami/angular-miniature-viewer` and swith to the root directory eg:`cd angular-miniature-viewer` 
 
 ## Development server
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
