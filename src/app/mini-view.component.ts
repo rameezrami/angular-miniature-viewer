@@ -4,8 +4,7 @@ declare var $: any;
 
 @Component({
   selector: "mini-view",
-  templateUrl: "./mini-view.component.html",
-  styleUrls: ["./mini-view.component.css"]
+  templateUrl: "./mini-view.component.html"
 })
 export class MiniViewComponent {
   miniViewObject: any = null;
